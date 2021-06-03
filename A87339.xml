@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartiall and true relation of the great victory obtained through the blessing of God, after a very sharpe dispute, by the conjoyned forces of Lincolne, Nottingham, Lecester, Derby, and Rutland, under the command of Col. Edw. Rosseter. VVith a list of the names and number of prisoners, colours, armes, and carriages taken on Tuesday [sic for Wednesday] Iuly 5. 1648. Die Sabbathi, 8 Iuly 1648. Ordered by the Commons assembled in Parliament that this narrative of the fight in Willoughby fields in the County of Nottingham, between the Parliament Forcei [sic] under the command of Col. Edward Rosseter, and the forces under the command of Sir Philip Mounkton on Wednesday July 5. 1648. be forthwith printed and published. H. Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87339</idno><idno type="EEBO-CITATION">99864714</idno>
+  <idno type="VID">116946</idno>
+  <idno type="EEBO-PROQUEST">2240915811</idno>
+  
+            <idno type="STC">Wing I80</idno>
+            <idno type="STC">Thomason E451_41</idno>
+            <idno type="STC">ESTC R205302</idno>
+            <idno type="PROQUEST">99864714</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864714e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116946)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartiall and true relation of the great victory obtained through the blessing of God, after a very sharpe dispute, by the conjoyned forces of Lincolne, Nottingham, Lecester, Derby, and Rutland, under the command of Col. Edw. Rosseter. VVith a list of the names and number of prisoners, colours, armes, and carriages taken on Tuesday [sic for Wednesday] Iuly 5. 1648. Die Sabbathi, 8 Iuly 1648. Ordered by the Commons assembled in Parliament that this narrative of the fight in Willoughby fields in the County of Nottingham, between the Parliament Forcei [sic] under the command of Col. Edward Rosseter, and the forces under the command of Sir Philip Mounkton on Wednesday July 5. 1648. be forthwith printed and published. H. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edw. Griffin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 11. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>A reissue (Wing (2nd ed.) I80A) has the titlepage partially reset to correct the day of the action to Wednesday and an amended printing date ("Iuly 12").</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116946:1"/>
+            <pb facs="tcp:116946:1"/>
+            <p>AN IMPARTIALL and true RELATION OF THE Great Victory obtained through the blessing of God, after a very sharpe dis<g ref="char:EOLhyphen"/>pute, by the conjoyned Forces OF <hi>Lincolne, Nottingham, Lecester, Derby,</hi> and <hi>Rutland,</hi> under the command of Col. EDW. ROSSETER.</p>
+            <p>VVith a List of the names and number of Pri<g ref="char:EOLhyphen"/>soners, Colours, Armes, and Carriages taken on Tuesday <hi>Iuly</hi> 5. 1648.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Sabbathi, 8 Iuly 1648.</hi>
+                              </date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons assembled in Parliament that this Narrative of the fight in Willoughby fields in the County of Nottingham, between the Parliament Forcei under the command of Col. <hi>Edward Rosseter,</hi> and the Forces under the command of Sir <hi>Philip Mounkton</hi> on Wednesday <hi>July 5. 1648.</hi> be forthwith printed and pub<g ref="char:EOLhyphen"/>lished.</p>
+                        <closer>
+                           <signed>H. Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edw. Griffin,</hi> Iuly 11. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116946:2"/>
+            <pb facs="tcp:116946:2"/>
+            <p>
+               <seg rend="decorInit">O</seg>N <hi>Fryday</hi> the 30 of <hi>June,</hi> about 400. horse from <hi>Pom<g ref="char:EOLhyphen"/>fret</hi> Castle, most of them gentlemen of severall Coun<g ref="char:EOLhyphen"/>tyes, and Reformade Officers, and 200 foot ferryed over <hi>Trent,</hi> and made incursion into <hi>Lincolne-shire,</hi> marching forthwith to the City of <hi>Line;</hi> whereafter they had by warrant under the hand of Sir <hi>Philip Monkton</hi> their Generall, re<g ref="char:EOLhyphen"/>leased all the prisoners in the Castle for Debt, Murther, Felony, and other crimes, (who took up Armes presently with them.) They went to the Bishops Pallace, wherein lay severall Armes, and some moneyes of the Countryes: which place Capt. <hi>Bee,</hi> a wollen Draper of that City with 30 men had taken possession of and defended for 3 houres, untill the Cavaliers had fired one part of the house. In which Capt. <hi>Bee</hi> resolved, and so told them he would be consumed, unlesse he might surrender upon conditi<g ref="char:EOLhyphen"/>ons propounded by him,) amongst which the protection of his person and estate) the which they agreed too; no sooner was the Pallace deliverd but all conditions broke, the Capt. seized and carryed away prisoner, untill released in the field at the follow<g ref="char:EOLhyphen"/>ing fight. All his wares and goods put in Carts, with which and the Armes and mony found in the Pallace, together with the plunder, and persons of other honest men of the Towne, they marched on Saturday night to <hi>Gainsborough</hi> 12 miles off.</p>
+            <p>This Alarum coming that Friday night to <hi>Belvoyer</hi> Castle to Col. <hi>Rossiter</hi> (who was there upon some occasions of the Country) he forthwith gave the Alarum to <hi>Northampton, Leicester, Notting<g ref="char:EOLhyphen"/>ham, Derby,</hi> and <hi>Rutland,</hi> and desired them to spare what horse they could, to joyne with a Troop of horse lately raised by him, by authority of Parliament for the security of that county; and he would therewith endevour to drive the enemy out of the Countrey againe. The which forces being conjoyned on Sabbath Evening, to the number of 550. (all of them newly raised men) and then understanding by a Letter, received from Sir <hi>Henry Cholmely,</hi> that 600 <hi>Yorkeshire</hi> horse with some Dragoones were on the Northside <hi>Trent</hi> about <hi>Gainsborrow,</hi> who would interrupt their retreating over <hi>Trent</hi> to <hi>Pomfret</hi> againe, or fight with them if they came over; Col. <hi>Rossiter</hi> marched on Munday morning towards <hi>Gainsborow:</hi> In the midway thither, there met and
+<pb facs="tcp:116946:3"/>joyned with him, a Troop of horse from <hi>Lyn,</hi> which the Gene<g ref="char:EOLhyphen"/>rall had put under the command of Capt. <hi>Taylor,</hi> who together re<g ref="char:EOLhyphen"/>freshed that night in and about <hi>Waddington</hi> fields 3 miles South of <hi>Lincolne.</hi> On Tuesday morning by three a Clock, they march<g ref="char:EOLhyphen"/>ed through <hi>Lincolne</hi> towards <hi>Gainsborow,</hi> and understanding by a <hi>Lincolne</hi> man (who had been taken away prisoner by the Cava<g ref="char:EOLhyphen"/>liers, and had escaped them that night,) that the enemy were all drawn off from <hi>Gainsborow,</hi> at 10. of the clock on Munday Even<g ref="char:EOLhyphen"/>ing and were marched towards <hi>Newark;</hi> Col. <hi>Rossiter</hi> forth<g ref="char:EOLhyphen"/>with pursued 18 miles that night, refreshed his horse 4 or 5 hours in the night in a meadow, a mile from <hi>Newark,</hi> where he received intelligence, that the enemy quartered about <hi>Bingham</hi> 6 miles before him; to this place came in to <hi>Rossiters</hi> further assistance about 150 horse, the one halfe from <hi>Derby</hi> and <hi>Rutland,</hi> the other halfe were Gentlemen and Freeholders of <hi>Lincolne,</hi> and <hi>Leicester<g ref="char:EOLhyphen"/>shire,</hi> who voluntarily would adventure their lives for their Countryes freedome. On Wednesday morning <hi>Rossiter</hi> com<g ref="char:EOLhyphen"/>manded out a forlorne-hope 150 of the ablest horse, under the command of Capt. <hi>Champion</hi> of <hi>Nottingham-shire,</hi> to pursue at a fast Rate, and so by falling on the enemies Reere, to enforce them to a stand or halt, till he with the body of horse could come up to them: They after 7 miles advance over tooke the Reere of them, whom skirmishing with, made their body of horse and foot, con<g ref="char:EOLhyphen"/>sisting of 7 or 800 at least, to draw up in a large Beane field be<g ref="char:EOLhyphen"/>longing to <hi>Willoughby</hi> 7 miles from <hi>Nottingham,</hi> of which <hi>Rossiter</hi> being informed from the commander of the forlorn, by march<g ref="char:EOLhyphen"/>ing at a full Trot (having no Dragoones or foot with him) with<g ref="char:EOLhyphen"/>in a short time brought his horse into the field, himselfe com<g ref="char:EOLhyphen"/>manding the right wing wherein he resolved to charge, But ob<g ref="char:EOLhyphen"/>serving that the enemies strength were placed in their body, con<g ref="char:EOLhyphen"/>sisting of a party of foot, winged with horse, and those horse flanked with Musketeers, and that with them the men of best quallity (as appeared by their outward Garbes) seemed to be mounted; he resolved to Charge the Battaile, assigning his right wing, to be commanded by Col. <hi>White,</hi> and the left wing by Col, <hi>Hacker,</hi> placing 2 reserves of horse in the Reere, being suddaine<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:116946:3"/>thus ordered, the enemies word (<hi>Jesus</hi>) and <hi>Rossiters</hi> (<hi>Faire<g ref="char:EOLhyphen"/>fax</hi>) he advanced to the charge, who was received with much re<g ref="char:EOLhyphen"/>solution. The bodies and reserves through eagernesse close in together; whereby the encounter proved very sharpe, both sides falling presently to Swords point, and so continued in close fight neither party giving ground for some space, till by the fircenesse of each party both were put into disorder, being so intermixt, doing execution each on other, the dispute continued a while doubtfull, at last it pleased God to give a full and absolute victo<g ref="char:EOLhyphen"/>ry to <hi>Rossiters</hi> forces, as may appeare by the quallity and number of prisoners taken; all their Colours, Armes, and Carriages. A<g ref="char:EOLhyphen"/>bout 200. that were best horsed (whereof divers Papists) got off in small parties, severall of them wounded, but at least one hun<g ref="char:EOLhyphen"/>dred of them, were that night and next morning taken in their flight by <hi>Leicester, Belvoier, Burly,</hi> and other honest Country-men, amongst whom was Sir <hi>Philip Mounkton</hi> their Generall disarmed and brought into <hi>Nottingham</hi> by Mr. <hi>Boyer,</hi> a high Constable of that County, who deservedly now weares his Sword.</p>
+            <p>In the first charge Col. <hi>Rossiter</hi> lost his head-peece, received a shot through the right thigh, and some other painfull wounds with a Musket Bullet, notwithstanding which he kept the field fighting till he saw the battaile wholly wonne, not discovering his wounding to any person, for feare it might prove a discou<g ref="char:EOLhyphen"/>rage to the Souldiers: after which being ready to fall through losse of blood, he rode to <hi>Nottingham</hi> where he lyeth Capable of recovery, through the blessing of God upon the meanes used for that end.</p>
+            <p>In this service, Col. <hi>Hacker</hi> (commander of the <hi>Leicester</hi> horse) who is wounded, and Col. <hi>White</hi> (commander of the <hi>Nottingham</hi> horse, having onely his horse cut) merrited much honour for their expressed valour. And no lesse is deserved by all the Cap<g ref="char:EOLhyphen"/>taines, Officers and Souldiers, who being all newly raised men, and mounted upon new bought horses (saving Capt. <hi>Taylors</hi> Troope, and 40 of <hi>Belvoier</hi> horse commanded by Lievt. <hi>Deane,</hi> who likewise is slightly wounded,) yet not one of them, nor the country-men, who were strangers to such hard service, was ob<g ref="char:EOLhyphen"/>served
+<pb facs="tcp:116946:4"/>to turne his backe, during the whole brunt. And as it is confessed by the prisoners taken, That the advantage they ap<g ref="char:EOLhyphen"/>prehended they had against <hi>Rossiters</hi> men by reason of their new listing, gave them as great encouragement to encounter them (had they been double their number) as confidence to have beaten and ruined them; so the victory is solely to be ascribed to the power and goodnesse of God; who therein hath fulfilled in part, that which is foretold by the Prophet, concerning the great things which his people shall performe in the distruction of his and their enemies. <hi>That the feeble shall be come as</hi> David, <hi>and the stronge shall become as an Angel of God in Heroick Actions.</hi>
+            </p>
+            <p>Not above 30 of <hi>Rossiters</hi> men slaine upon the place, the Cor<g ref="char:EOLhyphen"/>net to his own Troop being the highest Officer, at whose fall his colours were lost and for a while in the enemies hands, untill Cornet <hi>Ridgeley,</hi> a reformade in the same Troop recovered them; Captain <hi>Greenwood,</hi> who commanded <hi>Derby</hi> Troop dangerously wounded, and so are many other common Souldiers.</p>
+            <p>About an houre after the fight, there came in two gallant Troopes of horse from <hi>Northampton,</hi> who had been in sooner but the crosse marching of the enemy, impeaded their finding us sooner, who presently advanced in pursuit of them.</p>
+            <p>Sir <hi>Henry Cholmely</hi> also with 600 <hi>Yorke-shire</hi> horse, came then up to us over <hi>Nottingham</hi> Bridge, by whose lying on the North side <hi>Trent,</hi> and preventing the enemies Retreat that way, was this oportunity gained of fighting them; those <hi>Yorke-shire</hi> horse the next day advanced to assist other <hi>Yorke-shire</hi> forces already there, to block up <hi>Pomfret</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>astle; the enemy having in the Castle and Towne, about 60 horse, and 600 foot.</p>
+            <p>By severall Letters taken in their Generall Officers Pockets, it appears that men of high and low degree in severall Countyes, (before unsuspected.) are deeply engaged in the promoting and contributing toward a generall rising in many parts, some of the Prisoners affirme, That their Army resolved to have march<g ref="char:EOLhyphen"/>ed Southward through <hi>Leicester-shire</hi> and <hi>Northampton-shire,</hi> in whose march they doubted not but to have encreased to many thousands, and to have j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yned with others, rising about <hi>London,</hi> and to have raised <hi>Colchester</hi> Seige.</p>
+            <pb facs="tcp:116946:4"/>
+            <div type="part">
+               <head>A List of the Names of the Officers and Gentlemen taken Prisoners.</head>
+               <list>
+                  <item>SIr <hi>Philip Mounkton,</hi> Generall.</item>
+                  <item>Col. <hi>Robert Portington</hi> Lievt. Generall.</item>
+                  <item>
+                     <hi>Gilbert Byron</hi> (who at<g ref="char:EOLhyphen"/>tempted to betray <hi>Nottingham</hi> Castle) Major General woun<g ref="char:EOLhyphen"/>ded.</item>
+                  <item>Col. <hi>Edward Pocklington</hi>
+                  </item>
+                  <item>Col. <hi>Chomeley.</hi>
+                  </item>
+                  <item>Lievt Col. <hi>Ralph Ashton.</hi>
+                  </item>
+                  <item>Lievt. Col. <hi>Stamp</hi> slaine.</item>
+               </list>
+               <list>
+                  <head>Majors.</head>
+                  <item>
+                     <hi>Walter Salterstone.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Scot.</hi>
+                  </item>
+                  <item>
+                     <hi>Fitch Randoll.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Scot.</hi>
+                  </item>
+                  <item>
+                     <hi>George Roberts.</hi>
+                  </item>
+                  <item>Sir <hi>Roger. Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pers</hi> two Sons of <hi>Nottingham-shire,</hi> the one a Lievt. Col. the other a Captaine.</item>
+               </list>
+               <list>
+                  <head>Captaines.</head>
+                  <item>
+                     <hi>Iohn Elvidge. Io. Rich.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Mony. Will. Bates.</hi>
+                  </item>
+                  <item>
+                     <hi>I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h Rysby. Ioh. Munson.</hi>
+                  </item>
+                  <item>
+                     <hi>Rich Bradshaw.</hi>
+                  </item>
+                  <item>
+                     <hi>Clifton Roades.</hi>
+                  </item>
+                  <item>
+                     <hi>Anthony Wright.</hi>
+                  </item>
+                  <item>Capt <hi>Pinckett.</hi>
+                  </item>
+                  <item>Capt. <hi>Dayle.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Bird, who released the Prisoners in</hi> Lincoln Castle.</item>
+                  <item>
+                     <hi>Edmund Munckton.</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur Lee.</hi> Cap. <hi>Downes.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Saltmarsh.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Lievtenants.</head>
+                  <item>
+                     <hi>Robert White.</hi>
+                  </item>
+                  <item>
+                     <hi>Ioh. Gridditch.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Blundivill.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Hassells.</hi>
+                  </item>
+                  <item>Lievt. <hi>Bradwell.</hi>
+                  </item>
+                  <item>
+                     <hi>Marmaduke Dilman.</hi>
+                  </item>
+                  <item>Foure Cornetts. Two Ensignes, besides seve<g ref="char:EOLhyphen"/>rall other Officers a<g ref="char:EOLhyphen"/>mongst the common Souldiers, who will not yet discover their quallities.</item>
+                  <item>44. Gentlemen of qual<g ref="char:EOLhyphen"/>lity, whose name are inserted afterwards, severall of whom have beene Officers formerly.</item>
+                  <item>500. Common Souldi<g ref="char:EOLhyphen"/>ers taken, many of them wounded.</item>
+                  <item>10 Colours of horse and foot, whereof the greatest part in Cloke<g ref="char:EOLhyphen"/>bagges not delivered out.</item>
+                  <item>1 Waggon and 7 other Carriages with Armes Ammunition and o<g ref="char:EOLhyphen"/>ther Baggage.</item>
+                  <item>About 400 horse taken. 100 of them slaine up<g ref="char:EOLhyphen"/>on the place.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The names of severall Gentlemen taken Prisoners, whose habita<g ref="char:EOLhyphen"/>tions are in severall Counties.</head>
+               <list>
+                  <head>Gentlemen.</head>
+                  <item>
+                     <hi>GEorge Metam</hi> Esq;</item>
+                  <item>
+                     <hi>Peter Constable.</hi>
+                  </item>
+                  <item>
+                     <hi>Ioseph Constable.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Riddall.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Skellin.</hi>
+                  </item>
+                  <item>
+                     <hi>Simon Morfin.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Hickman.</hi>
+                  </item>
+                  <item>
+                     <hi>Gervase Hewett.</hi>
+                  </item>
+                  <item>
+                     <hi>William Furdey.</hi>
+                  </item>
+                  <item>
+                     <hi>I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lan Roads.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Hopkins.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Dunkin.</hi>
+                  </item>
+                  <item>
+                     <hi>Marke Johnson</hi>
+                  </item>
+                  <item>
+                     <hi>Iulian Wombwell.</hi>
+                  </item>
+                  <item>
+                     <hi>Rob. Stevens.</hi>
+                  </item>
+                  <item>
+                     <hi>Edw. Downing.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Lanckton.</hi>
+                  </item>
+                  <item>
+                     <hi>Anthony Savell.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Marston.</hi>
+                  </item>
+                  <item>
+                     <hi>Christopher Cole,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Mourley.</hi>
+                  </item>
+                  <item>
+                     <hi>Ralph Roston.</hi>
+                  </item>
+                  <item>
+                     <hi>Brookes.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Harfull.</hi>
+                  </item>
+                  <item>
+                     <hi>Wood.</hi>
+                  </item>
+                  <item>
+                     <hi>Peter Jackson.</hi>
+                  </item>
+                  <item>
+                     <hi>Sissill Leek.</hi>
+                  </item>
+                  <item>
+                     <hi>Fitchrand<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll.</hi>
+                  </item>
+                  <item>
+                     <hi>Iames Barlow.</hi>
+                  </item>
+                  <pb facs="tcp:116946:5"/>
+                  <item>
+                     <hi>Iames Hopkinson.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Gamble.</hi>
+                  </item>
+                  <item>
+                     <hi>Rob. French.</hi>
+                  </item>
+                  <item>
+                     <hi>Rob. Garrison.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Waters.</hi>
+                  </item>
+                  <item>
+                     <hi>Edmund Crathorn.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ssals.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Booth.</hi>
+                  </item>
+                  <item>
+                     <hi>Gabriel Armstrong.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Thornton.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Shellin.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Brigam.</hi>
+                  </item>
+                  <item>
+                     <hi>I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hn Miller.</hi>
+                  </item>
+                  <item>Two <hi>Loves</hi> of <hi>Derby-shire</hi> brethren, one taken, the other slaine.</item>
+               </list>
+               <p>Their Generals order to release the prisoners in Lincoln castle:</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>To M<seg rend="sup">rs</seg>. <hi>Smith</hi> Keeper of the Castle at Lincoln, and of the prisoners there, or to her Deputy or Deputies.</head>
+                     <p>THese are to will and require you and every of you, that forthwith upon fight hereof you release the bodies of such and every of such as you have in your custody, who are there committed upon malice, and for their loyalty to his Majesty, rather then any other sufficient ground: And at the request of the bearer hereof <hi>Tho. Bird</hi> Captain, who hath been these two yeers here unjustly imprisoned for his Majesties cause, who will intimate to you such persons as he upon oath knows worthy of their liberty, you are to deliver such men to him for their inlargement: Of the which faile not as you will answer the contrary at your perill.</p>
+                     <closer>
+                        <dateline>Given under my hand <date>this first day of Iuly <hi>1648.</hi>
+                           </date>
+                        </dateline>
+                        <signed>Philip Monkton.</signed>
+                     </closer>
+                     <postscript>
+                        <p>
+                           <hi>Col.</hi> Portington <hi>and Cap.</hi> Thomas Bird <hi>see this Warrant executed.</hi>
+                        </p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>According to this Warrant I <hi>Thomas Bird</hi> doe set at liberty (contrary to law) all the men within the castle and goale of Lincolne, and also the bodies of <hi>Hellen Cooke, Mary Saule, Anne Penneston, Anne Readmell,</hi> and <hi>Avis</hi> Ostler.<note n="*" place="bottom">Some of the women were committed for killing their bas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ard children.</note> Witnesse my hand this first of July 1648.</p>
+                     <closer>
+                        <signed>Tho. Bird.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>IT is required that <hi>Thomas Goodwin</hi> Gent. be released accor<g ref="char:EOLhyphen"/>ding to the command of</p>
+                     <closer>
+                        <signed>Philip Monkton.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:116946:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
